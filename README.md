@@ -1,6 +1,6 @@
 # 🚀 InternGo: AI-Based Internship Recommendation Engine
 
-InternGo is an AI-powered internship recommendation system developed for the Smart India Hackathon (SIH).
+InternGo is an AI-powered internship recommendation system developed for Bennett's Internal Smart India Hackathon (SIH).
 
 The system aims to help students, especially first-generation learners and candidates from rural and underserved regions, discover internships that best match their skills, interests, educational background, and location preferences.
 
